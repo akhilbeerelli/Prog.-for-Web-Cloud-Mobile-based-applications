@@ -1,0 +1,96 @@
+{
+    "courses": [
+        {
+            "description": "python",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "sreek",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "NA1",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "vikas",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "IDBMS",
+            "level": "ug",
+            "spring": "available",
+            "summer": "available",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "Kendel",
+            "prerequisites": "html",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "DS",
+            "level": "ug",
+            "spring": "available",
+            "summer": "available",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "fatima",
+            "prerequisites": "NA",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "Discrete",
+            "level": "ug",
+            "spring": "available",
+            "summer": "NA",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "sreek",
+            "prerequisites": "html",
+            "credits": 3,
+            "ratings": 4,
+            "links": "NA",
+            "availability":"True",
+            "duration":"16 weeks"
+        },
+        {
+            "description": "ISL",
+            "level": "ug",
+            "spring": "available",
+            "summer": "available",
+            "fall": "available",
+            "degree": "cs",
+            "instructor": "dinakar",
+            "prerequisites": "html",
+            "credits": 3,
+            "ratings": 4,
+            "links": "",
+            "availability":"True",
+            "duration":"16 weeks"
+        }
+
+
+    ]
+}
